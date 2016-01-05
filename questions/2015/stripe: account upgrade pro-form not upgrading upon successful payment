@@ -1,0 +1,7 @@
+Good morning. I set up a site for a client with free registration with level 1 upgrade pro-form for stripe and I have it set so that the pro form is on the login welcome page in a toggle so they can choose to pay for the increased member level once they already have an account. The form accepts payment, payment shows in stripe, and a successful message appears on user's webpage. However... their account level doesn't actually upgrade to level-1.
+
+Additionally, I was wondering if there is a way to force a page refresh upon successful payment? This is so that once their account does upgrade, the protected content then shows on that same page.
+
+Thank you in advance!
+
+Josh
